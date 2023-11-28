@@ -2,13 +2,14 @@
 
 100 days Coding Challenge
 
-> Start date : November 20, 2023
+> Start date : November 28, 2023
 
 # Overview
-
+https://github.com/FaroukBinLhouita
+https://github.com/FaroukBinLhouita/100days_coding_challenge/blob/main/Day%2001/Day1ofBlackJack%20(1).py
 |Day|Title|Description|Language|Source|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1| Communication Protocols| SPI | C | <a href="https://github.com/KirellosEmadSamir/ATMEGA32-Drivers/tree/master/Drivers/Building%20Library/Communication%20Protocols/SPI ">Github</a> | <a href="https://github.com/KirellosEmadSamir/100dayys_coding_challenge/tree/main/Day%2001" >View Code</a> |
+|1| BlackJack| a game | Python | <a href="https://github.com/FaroukBinLhouita">Github</a> | <a href="https://github.com/FaroukBinLhouita/100days_coding_challenge/blob/main/Day%2001/Day1ofBlackJack%20(1).py" >View Code</a> |
 |2||||||
 |3||||||
 |4||||||
